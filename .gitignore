@@ -2,3 +2,5 @@ __pycache__
 .vscode
 dataset
 .DS_Store
+.idea/
+models/
